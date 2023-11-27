@@ -1,0 +1,7 @@
+Enter the top-left coordinates for the rectangular portion, as (X,Y): (5,5)
+Enter the bottom-right coordinates for the rectangular portion, as (X,Y): (5,5)
+Enter the radius for the circle portion: 5
+You will need 13.561925000000002 meters of fence around this field.
+You have to cover 58.9048125 square meters with grass.
+You will need 1 bags of grass seeds for this.
+The total cost for seeds will be $14 before tax.
