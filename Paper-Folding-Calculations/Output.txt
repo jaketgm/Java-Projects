@@ -1,0 +1,17 @@
+Test #1:
+Enter the width of the sheet: 18
+Enter the height of the sheet: 18
+Enter the thickness of the sheet: 2
+The maximum number of folds is: 2
+
+Test #2:
+Enter the width of the sheet: 0
+Enter the height of the sheet: 0
+Enter the thickness of the sheet: 0
+The maximum number of folds is: 0
+
+Test #3:
+Enter the width of the sheet: 49999999999
+Enter the height of the sheet: 500
+Enter the thickness of the sheet: 50
+The maximum number of folds is: 15
