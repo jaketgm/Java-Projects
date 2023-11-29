@@ -1,0 +1,117 @@
+Test #1:
+
+Given a 2x2 matrix of the form:
+
+
+
+a b 
+
+c d
+
+Enter integers a, b, c, d (to find the inverse and determinant): 1
+
+2
+
+3
+
+4
+
+Determinant of the matrix is: -2
+
+Inverse of the matrix is: -0.5
+
+
+
+Given a 3x3 matrix of the form:
+
+
+
+x y z 
+
+l n f 
+
+k e r
+
+Enter integers x, y, z, l, n, f, k, e, r (to find the determinant): 1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+Choose 'row' or 'column' for cofactor expansion: row
+
+Choose a row (1, 2, or 3) for cofactor expansion: 2
+
+Determinant of the matrix using row 2 cofactor expansion is: 0.0
+
+
+
+Test #2:
+
+Given a 2x2 matrix of the form:
+
+
+
+a b 
+
+c d
+
+Enter integers a, b, c, d (to find the inverse and determinant): 1
+
+1
+
+1
+
+1
+
+Determinant of the matrix is: 0
+
+Inverse doesn't exist as determinant is zero.
+
+
+
+Given a 3x3 matrix of the form:
+
+
+
+x y z 
+
+l n f 
+
+k e r
+
+Enter integers x, y, z, l, n, f, k, e, r (to find the determinant): 1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+Choose 'row' or 'column' for cofactor expansion: column
+
+Choose a column (1, 2, or 3) for cofactor expansion: 3
+
+Determinant of the matrix using column 3 cofactor expansion is: 0.0
