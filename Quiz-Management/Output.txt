@@ -1,0 +1,39 @@
+Student 1: 80 75 90 79
+
+    Average: 81.00
+
+Student 2: 66 76 90 84
+
+    Average: 79.00
+
+Student 3: 90 100 60 65
+
+    Average: 78.75
+
+Student 4: 50 100 75 70
+
+    Average: 73.75
+
+Student 5: 85 85 85 100
+
+    Average: 88.75
+
+Quiz Averages:
+
+Quiz 1: 74.20
+
+Quiz 2: 87.20
+
+Quiz 3: 80.00
+
+Quiz 4: 79.60
+
+Student 1 has 2 quizzes above average.
+
+Student 2 has 2 quizzes above average.
+
+Student 3 has 2 quizzes above average.
+
+Student 4 has 1 quizzes above average.
+
+Student 5 has 3 quizzes above average.
