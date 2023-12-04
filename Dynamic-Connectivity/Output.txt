@@ -1,0 +1,183 @@
+Timings for QuickFind:
+Test 1: 140521875 nanoseconds
+Test 2: 103428417 nanoseconds
+Test 3: 121553458 nanoseconds
+Test 4: 103538333 nanoseconds
+Test 5: 103139250 nanoseconds
+Test 6: 105871208 nanoseconds
+Test 7: 95420750 nanoseconds
+Test 8: 95137959 nanoseconds
+Test 9: 96151459 nanoseconds
+Test 10: 97742667 nanoseconds
+Test 11: 95428333 nanoseconds
+Test 12: 95286625 nanoseconds
+Test 13: 95153708 nanoseconds
+Test 14: 94052542 nanoseconds
+Test 15: 93929250 nanoseconds
+Test 16: 96012250 nanoseconds
+Test 17: 96681417 nanoseconds
+Test 18: 98757958 nanoseconds
+Test 19: 96863291 nanoseconds
+Test 20: 98519917 nanoseconds
+Trimmed average for QuickFind: 97471729 nanoseconds
+
+Timings for QuickUnion:
+Test 1: 99829083 nanoseconds
+Test 2: 106732500 nanoseconds
+Test 3: 94876583 nanoseconds
+Test 4: 86966750 nanoseconds
+Test 5: 86013750 nanoseconds
+Test 6: 87182334 nanoseconds
+Test 7: 87070708 nanoseconds
+Test 8: 89152291 nanoseconds
+Test 9: 90473500 nanoseconds
+Test 10: 84842000 nanoseconds
+Test 11: 91236208 nanoseconds
+Test 12: 84992375 nanoseconds
+Test 13: 85209959 nanoseconds
+Test 14: 85311083 nanoseconds
+Test 15: 86238375 nanoseconds
+Test 16: 89139541 nanoseconds
+Test 17: 86367375 nanoseconds
+Test 18: 87519917 nanoseconds
+Test 19: 87780291 nanoseconds
+Test 20: 92026167 nanoseconds
+Trimmed average for QuickUnion: 87789108 nanoseconds
+
+Timings for WeightedQuickUnion:
+Test 1: 4595792 nanoseconds
+Test 2: 3674792 nanoseconds
+Test 3: 1164333 nanoseconds
+Test 4: 1171666 nanoseconds
+Test 5: 998541 nanoseconds
+Test 6: 1188292 nanoseconds
+Test 7: 1128333 nanoseconds
+Test 8: 943458 nanoseconds
+Test 9: 929458 nanoseconds
+Test 10: 1378875 nanoseconds
+Test 11: 1416750 nanoseconds
+Test 12: 940708 nanoseconds
+Test 13: 972708 nanoseconds
+Test 14: 922041 nanoseconds
+Test 15: 925208 nanoseconds
+Test 16: 935208 nanoseconds
+Test 17: 1240750 nanoseconds
+Test 18: 893250 nanoseconds
+Test 19: 1005625 nanoseconds
+Test 20: 944541 nanoseconds
+Trimmed average for WeightedQuickUnion: 1045820 nanoseconds
+
+Timings for WeightedQuickUnionPathCompression:
+Test 1: 3282083 nanoseconds
+Test 2: 739583 nanoseconds
+Test 3: 1012000 nanoseconds
+Test 4: 620167 nanoseconds
+Test 5: 823208 nanoseconds
+Test 6: 835250 nanoseconds
+Test 7: 638792 nanoseconds
+Test 8: 635792 nanoseconds
+Test 9: 617916 nanoseconds
+Test 10: 624417 nanoseconds
+Test 11: 608709 nanoseconds
+Test 12: 597625 nanoseconds
+Test 13: 616084 nanoseconds
+Test 14: 618667 nanoseconds
+Test 15: 614750 nanoseconds
+Test 16: 959042 nanoseconds
+Test 17: 605250 nanoseconds
+Test 18: 595334 nanoseconds
+Test 19: 612958 nanoseconds
+Test 20: 653416 nanoseconds
+Trimmed average for WeightedQuickUnionPathCompression: 637958 nanoseconds
+
+Connected components for QuickFind:
+Test 1: 3271
+Test 2: 3213
+Test 3: 3218
+Test 4: 3254
+Test 5: 3275
+Test 6: 3233
+Test 7: 3237
+Test 8: 3200
+Test 9: 3234
+Test 10: 3283
+Test 11: 3313
+Test 12: 3263
+Test 13: 3218
+Test 14: 3208
+Test 15: 3200
+Test 16: 3218
+Test 17: 3252
+Test 18: 3217
+Test 19: 3225
+Test 20: 3225
+Average connected components for QuickFind: 3231.4
+
+Connected components for QuickUnion:
+Test 1: 3206
+Test 2: 3270
+Test 3: 3242
+Test 4: 3211
+Test 5: 3228
+Test 6: 3250
+Test 7: 3266
+Test 8: 3231
+Test 9: 3242
+Test 10: 3287
+Test 11: 3213
+Test 12: 3284
+Test 13: 3267
+Test 14: 3263
+Test 15: 3268
+Test 16: 3303
+Test 17: 3304
+Test 18: 3238
+Test 19: 3207
+Test 20: 3250
+Average connected components for QuickUnion: 3251.7
+
+Connected components for WeightedQuickUnion:
+Test 1: 3266
+Test 2: 3239
+Test 3: 3342
+Test 4: 3199
+Test 5: 3284
+Test 6: 3251
+Test 7: 3224
+Test 8: 3223
+Test 9: 3231
+Test 10: 3267
+Test 11: 3336
+Test 12: 3329
+Test 13: 3214
+Test 14: 3233
+Test 15: 3280
+Test 16: 3271
+Test 17: 3196
+Test 18: 3190
+Test 19: 3233
+Test 20: 3161
+Average connected components for WeightedQuickUnion: 3243.8
+
+Connected components for WeightedQuickUnionPathCompression:
+Test 1: 3231
+Test 2: 3257
+Test 3: 3241
+Test 4: 3264
+Test 5: 3187
+Test 6: 3236
+Test 7: 3245
+Test 8: 3236
+Test 9: 3264
+Test 10: 3290
+Test 11: 3234
+Test 12: 3262
+Test 13: 3229
+Test 14: 3222
+Test 15: 3227
+Test 16: 3218
+Test 17: 3301
+Test 18: 3236
+Test 19: 3210
+Test 20: 3207
+Average connected components for WeightedQuickUnionPathCompression: 3237.2
